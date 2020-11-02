@@ -19,16 +19,16 @@ I'd also like to restart work on my ray tracer.
 
 I picked up a new 3D printer in May, it's a massive improvement over my old printers.  Turns out that the technology progressed in the 6 years since I last built a printer.  I've got the new printer setup to print very quickly.  It's got a 0.8mm nozzle and can knock out a large scale print that's got low definition but high strength in no time at all.  This means I can use it for real engineering projects and not have to babysit the printer or wait weeks to get everything printed.
 
-## Astronomy
+### Astronomy
 
 My first big project with the 3D printer is an equatorial mount [astrotracker](https://github.com/OpenAstroTech/OpenAstroTracker) for my DSLR.  The construction on that is done and the arduino code is loaded now I just need to do calibration and fine tuning; which I've been putting off.  With the shorter days and long nights, I'll probably find the time to finish that soon.
 
 I'd also like to try my hand at building a telescope.  The [PiKon](https://pikonic.com/) project looks interesting, but it's built with european hardware in mind which'll make it more difficult to source in the states.
 
-## Woodworking
+### Woodworking
 
 I've been slowly but surely building a small woodshop in my garage.  I'm working mainly in plywood which is great since I make lots of mistakes and the cost and consequences for failure are low.  I've realized I really need a table saw or a way to efficiently do rip cuts with my circular saw to make more progress.  My next project is likely going to be the construction of a jig that'll let my circular saw act like a track saw.
 
-## Writing
+### Writing
 
 I'm going to try and split my time between creative / fiction writing and non-fiction writeups of my hobbie projects.
