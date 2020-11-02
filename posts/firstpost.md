@@ -32,3 +32,5 @@ I've been slowly but surely building a small woodshop in my garage.  I'm working
 ## Writing
 
 I'm going to try and split my time between creative / fiction writing and non-fiction writeups of my hobbie projects.
+
+<strong>Contains {{ content | wordCount }} words</strong>
