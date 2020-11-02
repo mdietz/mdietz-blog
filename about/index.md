@@ -1,10 +1,10 @@
 ---
-layout: layouts/post.njk
+layout: layouts/about.njk
 title: About Me
-templateClass: tmpl-post
+templateClass: tmpl-about
 eleventyNavigation:
   key: About Me
   order: 3
 ---
 
-I am a person that writes stuff.
+By day I'm a software engineer at Google.  All opinions and views are my own.
