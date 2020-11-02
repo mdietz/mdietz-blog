@@ -1,5 +1,5 @@
 ---
-title: Mdietz.org is back.
+title: mdietz.org is back.
 description: What this blog is meant to be and a brief overview of some projects I've been working on.
 date: 2020-11-01
 tags:
